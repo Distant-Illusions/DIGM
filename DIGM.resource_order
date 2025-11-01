@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"wEase","order":5,"path":"folders/wEase.yy",},
+    {"name":"wFSM","order":2,"path":"folders/wFSM.yy",},
+    {"name":"wRNG","order":3,"path":"folders/wRNG.yy",},
+    {"name":"wTimer","order":1,"path":"folders/wTimer.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"fnt_example","order":1,"path":"fonts/fnt_example/fnt_example.yy",},
+    {"name":"obj_example_wtimer","order":1,"path":"objects/obj_example_wtimer/obj_example_wtimer.yy",},
+    {"name":"obj_menu","order":3,"path":"objects/obj_menu/obj_menu.yy",},
+    {"name":"scr_wease","order":1,"path":"scripts/scr_wease/scr_wease.yy",},
+    {"name":"scr_wfsm","order":1,"path":"scripts/scr_wfsm/scr_wfsm.yy",},
+  ],
+}

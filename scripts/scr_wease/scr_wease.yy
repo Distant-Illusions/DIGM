@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_wease",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_wease",
+  "parent":{
+    "name":"wEase",
+    "path":"folders/wEase.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_wrng",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_wrng",
+  "parent":{
+    "name":"wRNG",
+    "path":"folders/wRNG.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

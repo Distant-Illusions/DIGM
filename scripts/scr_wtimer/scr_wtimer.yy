@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_wtimer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_wtimer",
+  "parent":{
+    "name":"wTimer",
+    "path":"folders/wTimer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
